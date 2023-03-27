@@ -9,6 +9,7 @@
 <p align='center'>
     <img src="https://img.shields.io/badge/node.js-v18.12.1-339933?logo=Node.js"/>
    <img src="https://img.shields.io/badge/express-v4.18.2-000000?logo=Express"/>
+   <img src="https://img.shields.io/badge/axios-^1.3.4-5A29E4?logo=Axios"/>
    <img src="https://img.shields.io/badge/cors-^2.8.5-764ABC"/>
    <img src="https://img.shields.io/badge/dotenv-^16.0.3-ECD53F?logo=.ENV"/>
 </p>
